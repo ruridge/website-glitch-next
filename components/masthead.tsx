@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-const Masthead: React.FC = () => {
+const Masthead = () => {
   return (
     <div className="sticky top-0 flex flex-col items-center justify-center min-h-screen bg-black -z-10">
       <video
